@@ -88,7 +88,7 @@ Os pinos para comunicação com o display LCD são definidos no início do códi
 ### Vídeo demonstrativo
 
 
-[Assista ao vídeo demonstrativo](./nome_do_video.mp4)
+[Assista ao vídeo demonstrativo](./Simulacao.mp4)
 
 
 ### Conclusão
