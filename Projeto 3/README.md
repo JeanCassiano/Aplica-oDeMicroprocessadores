@@ -50,7 +50,7 @@ A inicialização do display e o envio de dados são realizados com as funções
     Lcd_Cmd(_LCD_CURSOR_OFF);  // Desliga o cursor
 ``` 
 
-O display exibe a temperatura formatada como "XX.XX °C", garantindo que o usuário possa monitorar a temperatura com precisão.
+O display exibe a temperatura formatada como "XX.XX °C".
 
 ### Análise das Funções do Código
 
