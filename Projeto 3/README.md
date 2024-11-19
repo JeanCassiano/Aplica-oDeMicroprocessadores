@@ -39,7 +39,8 @@ O display LCD 16x2 é utilizado para exibir a temperatura em graus Celsius com u
 
 As conexões podem ser visualizadas à seguir no SimulIDE:
 
-![alt text](diagrama.png)
+![diagrama](https://github.com/user-attachments/assets/dc4e6762-122d-4152-874b-48b3ee167dde)
+
 
 A inicialização do display e o envio de dados são realizados com as funções fornecidas pela biblioteca do MikroC:
 
@@ -87,9 +88,7 @@ Os pinos para comunicação com o display LCD são definidos no início do códi
 
 ### Vídeo demonstrativo
 
-
-[Assista ao vídeo demonstrativo](./Simulacao.mp4)
-
+https://github.com/user-attachments/assets/dd6e0f65-8ec9-4aa4-97e4-8cf730a9200c
 
 ### Conclusão
 
