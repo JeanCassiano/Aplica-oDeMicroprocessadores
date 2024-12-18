@@ -1,4 +1,5 @@
-# Projeto 4 - Microcontroladores ESP32
+# Projeto 4 - Microcontroladores ESP32 <br> <br> Jean Carlos Pereira Cassiano - NUSP: 13864008 <br> Giovanna de Freitas Velasco - NUSP: 13676346
+
 
 ## Descrição
 
