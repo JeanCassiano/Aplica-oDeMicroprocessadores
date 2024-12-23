@@ -32,3 +32,26 @@ Projeto
 ## Carregamento e Execução
 
 Para simular os programas, abra o respectivo arquivo workwi e entre no link no txt. Lá você poderá testar ambas as simulações.
+
+
+## Programa 1
+
+![alt text](image.png)
+
+Acima pode-se visualizar o primeiro programa em desenvolvimento. Nesse estado o motor se encontra no estado manual onde podemos controla-lo.
+
+
+![alt text](image-1.png)
+
+Acima, temos o estado Parado, onde o motor não se move independente do que fazemos. 
+
+
+![alt text](image-2.png)
+
+Por fim, temos o estado automático, onde o motor gira automaticamente em sentido anti-horário.
+
+## Programa 2
+
+![alt text](image-3.png)
+
+Referente ao programa 2, aqui temos o funcionamento dele, onde as cores do LED vão se alternando e temos os prints dos códigos de cores aparecendo no terminal.
